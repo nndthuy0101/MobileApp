@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">K22411CProject</string>
+    <string name="title_login_user_name">User name:</string>
+    <string name="title_login_user_name_hint">Enter your user name</string>
+    <string name="title_login_password">Password:</string>
+    <string name="title_login_save_login_infor">Save login infor</string>
+    <string name="title_login_button_login">Login</string>
+    <string name="confirm_exit_title">Exit confirmation</string>
+    <string name="confirm_exit_message">Are you sure you want to exit?</string>
+    <string name="confirm_exit_yes">YES</string>
+    <string name="confirm_exit_no">NO</string>
+    <string name="title_employee">Employee</string>
+    <string name="title_customer">Customer</string>
+    <string name="title_login_username">Username:</string>
+    <string name="title_login_username_hint">Enter your username</string>
+    <string name="title_login_password_hint">Enter your password</string>
+    <string name="title_employee_list">Employee List</string>
+    <string name="title_login_save_info">Save login information</string>
+    <string name="title_employee_barista">Barista</string>
+</resources>
